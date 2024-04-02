@@ -1,0 +1,4 @@
+python-dotenv
+langchainhub
+langchain
+google-search-results
